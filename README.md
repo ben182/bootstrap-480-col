@@ -2,7 +2,6 @@
 
 Adds a new column to the bootstrap grid system.
 
-|             |             |                        |
 |-------------|-------------|------------------------|
 | `.col-xs-$` | Extra Small | Phones Less than 480px |
 | `.col-mi-$` | Mini | Phones 480px and Up |
